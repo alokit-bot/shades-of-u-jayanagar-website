@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shades-of-u-jayanagar-website/static/css/main.7feba807.css",
+    "main.js": "/shades-of-u-jayanagar-website/static/js/main.c3d907fb.js",
+    "index.html": "/shades-of-u-jayanagar-website/index.html",
+    "main.7feba807.css.map": "/shades-of-u-jayanagar-website/static/css/main.7feba807.css.map",
+    "main.c3d907fb.js.map": "/shades-of-u-jayanagar-website/static/js/main.c3d907fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7feba807.css",
+    "static/js/main.c3d907fb.js"
+  ]
+}
